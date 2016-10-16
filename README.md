@@ -1,2 +1,2 @@
-# hello-world
-My first repository
+# website
+ An online grocery store with basic functionalities. 
